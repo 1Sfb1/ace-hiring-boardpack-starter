@@ -1,5 +1,5 @@
 # Brondossier Linde Servicegroep
-Alle namen, observaties en cijfers zijn fictief. Bedragen in kEUR, exclusief btw. De tabellen horen bij de opdracht in het portaal.
+De bedragen staan in kEUR (duizend euro), exclusief btw. De tabellen horen bij de opdracht in het portaal.
 
 ## N1 / directienotitie / 2 november
 “De oktoberomzet bedraagt 375 kEUR en we leveren 90 procent op tijd. Het bestuur kan een extra ploeg goedkeuren.” De auteur heeft nog geen aansluiting op de maandexport gemaakt.
